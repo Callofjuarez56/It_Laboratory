@@ -21,15 +21,14 @@
         <div class="row">
             <div class="col-12 d-flex flex-row align-items-center justify-content-between">
                 <div class="heading-brand">Prism.js</div>
-                <a href="https://prismjs.com/download.html" class="btn btn-dark" target="_blank">Репозиторий</a>
+                <a href="https://github.com/Callofjuarez56/It_Laboratory" class="btn btn-dark" target="_blank">Репозиторий</a>
             </div>
         </div>
         <div class="row mt-6">
             <div class="col-md-8 mx-auto text-center">
                 <h1>Интернет-технологии</h1>
-                <p class="lead mb-5">Prism is a lightweight, extensible syntax highlighter, built with modern web
-                    standards in mind. It’s used in thousands of websites, including some of those you visit daily.</p>
-                <a href="https://github.com/LeaVerou/prism/" class="btn btn-success svg-icon">
+                <p class="lead mb-5">Лабораторная работа №1. Знакомство с основными инструментами и нотациями. Создание веб-страницы</p>
+                <a href="https://github.com/Callofjuarez56/It_Laboratory" class="btn btn-dark svg-icon">
                     <em class="mr-2" data-feather="github"></em>
                     Код_проекта#
                 </a>
@@ -47,19 +46,17 @@
 import {Pipe, PipeTransform} from '@angular/core';
 
 import { icons } from 'feather-icons'; // v4+
+import { stankin } from 'i want 45:)'; ///
 
-@Pipe({ name: 'feather' })
-export class FeatherIconsPipe implements PipeTransform {
+@Tech({ name: 'It_Labs' })
+export class It_Labs implements ItLabsTransform {
 
-  constructor(private sanitizer: DomSanitizer) {}
-
-  transform(icon: string, size: number = 24, color: string = 'inherit') {
-    return this.sanitizer.bypassSecurityTrustHtml(icons[icon].toSvg({
-      width: size,
-      height: size,
-      color: color
-    }));
-  }
+  /* GITHUB - информационная система коллективной разработки
+     программных средств. В рамках данной лабораторной работы
+     необходимо зарегистрироваться на github.com, создать
+     личный репозиторий, создать личную веб-страницу с описанием
+     выполнения лабораторных работ, разместить код
+     веб-страницы в репозитории, а также разместить ее на хостинге. */
 }</code></pre>
                 </div>
             </div>
@@ -72,7 +69,7 @@ export class FeatherIconsPipe implements PipeTransform {
     <div class="container">
         <div class="row">
             <div class="col-md-8 mx-auto">
-                <h2 class="text-center text-md-left">Reasons Why People Love <span class="text-success">Prism.js</span></h2>
+                <h2 class="text-center text-md-left">Лабораторная работа №2 <span class="text-success">IT Проект</span></h2>
                 <div class="row feature-grid">
                     <div class="col-sm-6">
                         <div class="media">
@@ -145,24 +142,6 @@ export class FeatherIconsPipe implements PipeTransform {
                         </div>
                     </div>
                 </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!--Used By Section-->
-<section class="pb-6">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 mx-auto">
-                <h2 class="text-center text-md-left">Used by Thousands of Companies</h2>
-                <p class="lead text-muted">Prism.js is used on several websites, small and large.</p>
-                <div class="mt-5 d-flex flex-row justify-content-md-between flex-wrap press-icons">
-                    <img src="https://logo.clearbit.com/google.com?size=60" alt="Google"/>
-                    <img src="https://logo.clearbit.com/twitter.com?size=60" alt="Twitter"/>
-                    <img src="https://logo.clearbit.com/vuejs.org?size=60" alt="Veu.js"/>
-                    <img src="https://logo.clearbit.com/stripe.com?size=60" alt="Stripe"/>
                 </div>
             </div>
         </div>
