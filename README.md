@@ -93,5 +93,5 @@
 
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer
-1. [Отчет](It_Laboratory/CPT/IT_LR3_Kurochkin_IDM-22-01.docx)
+1. [Отчет](Callofjuarez56/It_Laboratory/CPT/IT_LR3_Kurochkin_IDM-22-01.docx)
 2. [Сценарий Cisco Packet Tracer]
