@@ -90,3 +90,8 @@
 1. Репозиторий проекта доступен по ссылке: [IT_Project]( https://github.com/tormaks/leonardo-landing-page)
 2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://tormaks.github.io/leonardo-landing-page/)
 3. Роль в проекте: Внедрение(продажи) ВН
+
+## ✅ Лабораторная работа № 3
+Работа с Cisco Packet Tracer
+1. [Отчет](It_Laboratory/CPT/IT_LR3_Kurochkin_IDM-22-01.docx)
+2. [Сценарий Cisco Packet Tracer]
