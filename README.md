@@ -93,5 +93,5 @@
 
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer
-1. [Отчет](https://github.com/Callofjuarez56/It_Laboratory/CPT)
+1. [Отчет](https://github.com/Callofjuarez56/It_Laboratory/tree/page/CPT)
 2. [Сценарий Cisco Packet Tracer]
