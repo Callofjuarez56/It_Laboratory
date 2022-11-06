@@ -96,4 +96,4 @@
 1. [Отчет](https://github.com/Callofjuarez56/It_Laboratory/tree/page/CPT)
 2. [Сценарий Cisco Packet Tracer]
 
-## ✅ Экзаменационный билет №22
+## ✅ Экзаменационный билет №29
