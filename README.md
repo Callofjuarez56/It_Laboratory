@@ -95,3 +95,8 @@
 Работа с Cisco Packet Tracer
 1. [Отчет](https://github.com/Callofjuarez56/It_Laboratory/tree/page/CPT)
 2. [Сценарий Cisco Packet Tracer]
+
+## ✅ Экзаменационный билет №22
+
+Ответ на экзаменационный билет доступен по ссылке:
+[билет №29](https://github.com/stankin/inet-2022/wiki/exam22)
