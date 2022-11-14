@@ -98,4 +98,4 @@
 
 ## ✅ Экзаменационный билет №29
 Ответ на экзаменационный билет доступен по ссылке:
-[билет №21](https://github.com/stankin/inet-2022/wiki/exam29)
+[билет №29](https://github.com/stankin/inet-2022/wiki/exam29)
